@@ -1,0 +1,50 @@
+﻿{
+  "config": {
+    "coefficient": [
+      {
+        "province": "全国",
+        "value": "0.3"
+      },
+      {
+        "province": "全国",
+        "season": "春季",
+        "value": "0.35"
+      },
+      {
+        "province": "全国",
+        "season": "冬季",
+        "value": "0.9"
+      },
+      {
+        "province": "湖南",
+        "value": "0.6"
+      },
+      {
+        "province": "湖南",
+        "season": "夏季",
+        "value": "0.55"
+      },
+      {
+        "province": "湖南",
+        "city": "长沙",
+        "value": "0.2"
+      },
+      {
+        "province": "湖南",
+        "city": "长沙",
+        "season": "冬季",
+        "value": "0.2"
+      },
+      {
+        "province": "湖北",
+        "season": "秋季",
+        "value": "0.48"
+      },
+      {
+        "province": "湖北",
+        "city": "武汉",
+        "value": "0.6"
+      }
+    ]
+  }
+}

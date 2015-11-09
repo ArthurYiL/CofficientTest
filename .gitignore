@@ -1,2 +1,7 @@
-obj/
-bin/
+/UnitTestCofficient/obj
+/UnitTestCofficient/bin
+/Cofficient.Configuration/bin
+/Cofficient.Configuration/obj
+/packages
+/DemoTest
+/TestCofficient
